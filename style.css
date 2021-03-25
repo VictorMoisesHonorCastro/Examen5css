@@ -13,8 +13,8 @@ body {
   float:left ;
 }
 #captura1{
-	width: 50px;
-	min-width: 50px;
+	width: 90px;
+	min-width: 90px;
 	float: right;
 }
 /* Layout */
@@ -63,6 +63,9 @@ header, footer {
 	margin: 0;
 	padding: 0 10px;
 	text-shadow: 0 -1px 0 rgb(11, 80, 230);
-	width: 400px; 
-	
+	width: 400px;
+}
+#buscador {
+	width: 79px;
+	margin: 0 auto;
 }
